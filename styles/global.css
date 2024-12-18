@@ -27,12 +27,23 @@
     --h2-mobile: 800 2rem/120% var(--font-syne);
 }
 
+body{
+    color: var(--text);
+    background-color: var(--background);
+    text-decoration: none;
+}
+
 h1{
     font: var(--h1-desk);
 }
 
 h2{
     font: var(--h2-desk);
+}
+
+img {
+    width: 100%;
+    height: 100%;
 }
 
 
