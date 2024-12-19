@@ -22,7 +22,7 @@
     --h1-desk: 700 4rem/125% var(--font-syne);
     --h2-desk: 700 2.5rem/120% var(--font-syne);
     --button-label-desk: 500 1rem/150% var(--font-mont);
-    --span-desk: 0.875rem/150% var(--font-mont);
+    --span-desk: 500 0.875rem/150% var(--font-mont);
 
     --h1-mobile: 700 2rem/125% var(--font-syne);
     --h2-mobile: 700 2rem/120% var(--font-syne);

@@ -2,15 +2,12 @@
     width: 100%;
     padding-block: 2.5rem;
     overflow: hidden;
-    /* border: 1px solid red; */
 
     & .container{
-        /* display: flex; */
         height: 100%;
         width: 100%;
         overflow: hidden;
         padding-block: 1rem;
-        /* border: 1px solid blue; */
 
         & .roll{
             width: 100%;
@@ -19,7 +16,6 @@
             animation: rolling 2s linear infinite;
 
             & img {
-                /* border: 1px solid black; */
                 width: 132px;
                 height: auto;
             }
